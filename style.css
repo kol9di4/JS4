@@ -1,0 +1,13 @@
+div{
+    box-sizing: border-box;
+    display: inline-block;
+    width: 200px;
+    height: 200px;
+    background-color: antiquewhite;
+    margin: 5px;
+    padding: 10px;
+    border: 2px solid transparent;
+}
+.active{
+    border: 2px solid red;
+}
